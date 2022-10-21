@@ -6,5 +6,5 @@ I hope you enjoyed it.
 ## Here, I will test my ability to show code examples with Markdown.
 ```
 cout << "Hello world!" << endl;
-Prints the message Hello world!
+Prints the message Hello world! in C++.
 ```
