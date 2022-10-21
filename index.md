@@ -8,3 +8,8 @@ I hope you enjoyed it.
 cout << "Hello world!" << endl;
 Prints the message Hello world! in C++.
 ```
+## Here, I will test my ability to create a task list with Markdown.
+- [ ] Intro to GitHub lab
+- [ ] Communicate using Markdown lab
+- [ ] Programming assignment
+- [ ] Chapters 1 andd 2 quiz
